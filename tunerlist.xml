@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="tunerList.xsl"?>
+<snugcaster>
+	<list>
+		<device id="1" name="AVerMedia Capture Card - 1">
+			<tuner enable="1" id="1">
+				<sourcetype id="48" port="1"/>
+			</tuner>
+		</device>
+	</list>
+</snugcaster>
